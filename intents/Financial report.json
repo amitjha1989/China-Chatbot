@@ -1,0 +1,36 @@
+{
+  "id": "4c65171c-b2fb-48cf-9fdb-8d2e2d9cb4d8",
+  "name": "Financial report",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "323241c5-f04f-4367-94ef-500bbe2a37ab",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\u003ca href\u003d\"https://isharenew.dhl.com/sites/sdhome/sd3/wms/docs/Team%20Folder%20-%20SC%20Solutions%20AP/VA%20Chatbot/dpdhl-group-financial-highlights-2016.pdf\" target\u003d\"_blank\"\u003eVisit\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536839086,
+  "fallbackIntent": false,
+  "events": []
+}

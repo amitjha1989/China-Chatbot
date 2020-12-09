@@ -1,0 +1,28 @@
+{
+  "id": "73662069-d4a6-4ff4-8c5e-8a94b97eb6d5",
+  "name": "Import Capacity3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In China, we have bonded operation in Beijing, Shanghai, Guangzhou, Shenzhen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888406,
+  "fallbackIntent": false,
+  "events": []
+}

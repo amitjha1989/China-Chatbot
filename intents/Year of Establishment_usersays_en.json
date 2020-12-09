@@ -1,0 +1,38 @@
+[
+  {
+    "id": "94e3504c-9662-45b7-b3b5-8ff9879d2ca0",
+    "data": [
+      {
+        "text": "Company Establishment year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720711
+  },
+  {
+    "id": "0a0b7f97-d948-4c74-aace-287d137594a7",
+    "data": [
+      {
+        "text": "Establishment Year of company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720711
+  },
+  {
+    "id": "78d8c0d7-36ba-4465-87cc-f0fb08d1d78c",
+    "data": [
+      {
+        "text": "Year of Establishment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720711
+  }
+]

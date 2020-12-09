@@ -1,0 +1,28 @@
+{
+  "id": "73e9f6dd-d3df-40e0-99d4-be4acfbef454",
+  "name": "Import Capacity2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "DHL has e-commerce team dedicated to the CBEC business, we have a cross board show case which is Bayern Munchen football club e-shop in HK."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888308,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bd2a67bb-9fc5-46e4-8ab0-9c976f5db266",
+    "data": [
+      {
+        "text": "Name of company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224215
+  },
+  {
+    "id": "b6dae437-9a63-4af9-8948-96c50ace6d15",
+    "data": [
+      {
+        "text": "Full Company Name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224215
+  }
+]

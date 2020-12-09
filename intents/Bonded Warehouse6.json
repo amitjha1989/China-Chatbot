@@ -1,0 +1,36 @@
+{
+  "id": "3f627480-cda7-441a-b661-b2b444c56868",
+  "name": "Bonded Warehouse6",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4cadb68-ed4b-45d7-8fce-9dabd3ff1978",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$date shipment from port to bonded warehoue within 48 hours in Shanghai. The customs declaration lead time is 2-3 working days in general."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888921,
+  "fallbackIntent": false,
+  "events": []
+}

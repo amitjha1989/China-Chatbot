@@ -1,0 +1,50 @@
+{
+  "id": "219e3d04-2c97-45bf-b560-00fd58f98774",
+  "name": "Staff Turnover Rate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4a1a00bc-0289-4ade-9e67-43eee176d282",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        },
+        {
+          "id": "ddeb7ca0-3ab7-4b3f-a6e6-f6619037bf1c",
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "2569d2bc-e87d-4fd9-8aa4-9c052c433de0",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "DHL conducts employee satisfaction surveys every year, and regularly holds employee meetings to strengthen communication between employees and management. The turnover rate is very low."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536721195,
+  "fallbackIntent": false,
+  "events": []
+}

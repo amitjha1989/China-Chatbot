@@ -1,0 +1,36 @@
+{
+  "id": "9ee94674-0785-44e7-bf42-09cfc1fdd49c",
+  "name": "Number of employees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "28b1a5e5-68de-451c-a873-caf4745fcfaf",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "About 5,500 people"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536721029,
+  "fallbackIntent": false,
+  "events": []
+}

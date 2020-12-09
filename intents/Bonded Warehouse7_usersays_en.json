@@ -1,0 +1,24 @@
+[
+  {
+    "id": "6bbd11fb-1f28-4bab-8fd1-aa58a24ba871",
+    "data": [
+      {
+        "text": "Countries where the company have bonded warehouse ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888955
+  }
+]

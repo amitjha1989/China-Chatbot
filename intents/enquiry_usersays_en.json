@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bf930e7c-1caf-4a72-b43d-ddcd86ab9da5",
+    "data": [
+      {
+        "text": "Security system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889560
+  },
+  {
+    "id": "ae905382-a26f-47ee-928a-892696656fcb",
+    "data": [
+      {
+        "text": "GPS tracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889560
+  },
+  {
+    "id": "aedc1e94-7c87-41ed-ab70-b6b0f0b5f65a",
+    "data": [
+      {
+        "text": "Are your trucks (owned and outsourced) equipped with GPS/ tracking/ security system?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889560
+  }
+]

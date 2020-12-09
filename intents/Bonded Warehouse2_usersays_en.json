@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bd256bd7-8a59-40a8-8a94-cc6ed77a394a",
+    "data": [
+      {
+        "text": "Experience for handle food products in ambient and temperature control (",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "-25 C",
+        "alias": "temperature",
+        "meta": "@sys.temperature",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888489
+  }
+]

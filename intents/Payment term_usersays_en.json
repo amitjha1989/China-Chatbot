@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d9fdeab3-c9a3-4b16-8224-4619249d70b6",
+    "data": [
+      {
+        "text": "payment term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889059
+  },
+  {
+    "id": "5d656deb-dd65-413a-a963-4a34990aa548",
+    "data": [
+      {
+        "text": "The longest payment term you can offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889059
+  }
+]

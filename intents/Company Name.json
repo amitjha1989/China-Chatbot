@@ -1,0 +1,28 @@
+{
+  "id": "89b06fd5-b19e-44d1-9cb5-9c303b8eabab",
+  "name": "Company Name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Golden Eagle International Freight Forwarding Co., Ltd."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536224215,
+  "fallbackIntent": false,
+  "events": []
+}

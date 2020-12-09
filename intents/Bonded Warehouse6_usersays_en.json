@@ -1,0 +1,24 @@
+[
+  {
+    "id": "9b0a6119-65ab-4937-b2cd-3324a7c583de",
+    "data": [
+      {
+        "text": "Describe what kind of KPI that are used for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " for shipment from Port to bonded warehouse and general trade customs declaration.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888921
+  }
+]

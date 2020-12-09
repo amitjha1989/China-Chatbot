@@ -1,0 +1,28 @@
+{
+  "id": "6f8dcf21-89c5-4574-ad93-16ddfb4a1555",
+  "name": "Bonded Warehouse4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "DHL use Manhatten system"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888683,
+  "fallbackIntent": false,
+  "events": []
+}

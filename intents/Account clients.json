@@ -1,0 +1,39 @@
+{
+  "id": "d7712ff1-cf8a-4eca-8fd1-26d911af541e",
+  "name": "Account clients",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fc5cbbb8-32d7-4c74-9477-05094d673736",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "BMW, APPLE, STARBUCKS, UNILEVER, HP",
+            "Top 5 Key account are: BMW, APPLE, STARBUCKS, UNILEVER, HP."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536889152,
+  "fallbackIntent": false,
+  "events": []
+}

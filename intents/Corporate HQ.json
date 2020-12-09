@@ -1,0 +1,36 @@
+{
+  "id": "d91c7ade-dfe6-4e13-ac7a-78a34aac7505",
+  "name": "Corporate HQ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f697a42d-2227-4da7-8866-aab677d785ab",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Corporate Headquarters Address No. 11, Jinxiu Street, Beijing Economic and Technological Development Zone, Beijing"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536224475,
+  "fallbackIntent": false,
+  "events": []
+}

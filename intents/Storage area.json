@@ -1,0 +1,28 @@
+{
+  "id": "18e27754-56b5-4d90-91a5-ca1f7e1c6aa9",
+  "name": "Storage area",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "North China East China South China West China to the country"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536889644,
+  "fallbackIntent": false,
+  "events": []
+}

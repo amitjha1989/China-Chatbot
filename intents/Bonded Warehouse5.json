@@ -1,0 +1,28 @@
+{
+  "id": "2190d386-d190-4647-bd4f-cf0ff9980f45",
+  "name": "Bonded Warehouse5",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please refer the \u003ca href\u003d\"https://isharenew.dhl.com/sites/sdhome/sd3/wms/docs/Team%20Folder%20-%20SC%20Solutions%20AP/VA%20Chatbot/DHL%20wms.pdf\" target\u003d\"_blank\"\u003eLink\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888849,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0768efad-f906-4032-ad22-38ffa672246f",
+    "data": [
+      {
+        "text": "Registered Capital of the Company (RMB)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720780
+  },
+  {
+    "id": "9f42648b-ad30-46d2-a6a6-0acf63b2e696",
+    "data": [
+      {
+        "text": "Registered Capital (in CNY)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720780
+  },
+  {
+    "id": "c689a094-15fe-41d7-be5a-9e7449b810e8",
+    "data": [
+      {
+        "text": "Registered Capital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720780
+  }
+]

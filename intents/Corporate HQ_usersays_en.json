@@ -1,0 +1,72 @@
+[
+  {
+    "id": "edcbda8a-6a57-47e0-a9aa-fc759f5fd5ab",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " headquarter location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224475
+  },
+  {
+    "id": "26443890-4dde-43cd-a7a2-f7c16335b74f",
+    "data": [
+      {
+        "text": "Corporate location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224356
+  },
+  {
+    "id": "74193de6-02d1-4ae8-ae30-65054c41d949",
+    "data": [
+      {
+        "text": "Headquarter location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224356
+  },
+  {
+    "id": "ceabcfd8-7f24-46aa-9958-86c62b592baf",
+    "data": [
+      {
+        "text": "Corporate HQ Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224356
+  },
+  {
+    "id": "0fecec36-229f-44d5-8df4-7f991356831a",
+    "data": [
+      {
+        "text": "HQ Location in China (City)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224356
+  }
+]

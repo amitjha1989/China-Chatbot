@@ -1,0 +1,36 @@
+{
+  "id": "6e72b202-26ee-4dc5-a2e8-47d27f138dc9",
+  "name": "Bonded Warehouse7",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8c63300-712b-40ea-affa-ed8fd0c2a52c",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "China, Thailand, Australia etc"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888955,
+  "fallbackIntent": false,
+  "events": []
+}

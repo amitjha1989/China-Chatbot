@@ -1,0 +1,28 @@
+{
+  "id": "c803e44c-5fdf-4785-89d7-9b4c8eebc6da",
+  "name": "management systems certification",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "WMS, TMS"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536721458,
+  "fallbackIntent": false,
+  "events": []
+}

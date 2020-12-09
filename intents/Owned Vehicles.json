@@ -1,0 +1,28 @@
+{
+  "id": "bab6ba64-6beb-4593-a88a-102b0c8c88ae",
+  "name": "Owned Vehicles",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No. of Owned Vehicles: 260,\nTruck Type : \"Fleet Capacity\",\nNumber of outsourced trucks: 10000,"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537496039,
+  "fallbackIntent": false,
+  "events": []
+}

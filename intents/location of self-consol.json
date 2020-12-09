@@ -1,0 +1,28 @@
+{
+  "id": "73505899-d956-4c83-87db-ef5a86038287",
+  "name": "location of self-consol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "North, Guangzhou, and Shenzhen"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536889262,
+  "fallbackIntent": false,
+  "events": []
+}

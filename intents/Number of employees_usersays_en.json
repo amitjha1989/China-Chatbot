@@ -1,0 +1,36 @@
+[
+  {
+    "id": "748de14d-26ab-4692-8c4b-5c2dd5e7aee1",
+    "data": [
+      {
+        "text": "Number of employees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721029
+  },
+  {
+    "id": "7870159e-e74a-4d07-9de3-d5e5b614682f",
+    "data": [
+      {
+        "text": "Staff Amount (in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721029
+  }
+]

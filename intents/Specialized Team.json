@@ -1,0 +1,28 @@
+{
+  "id": "a093ab3a-b9d8-4034-8188-12b36d1a6ab8",
+  "name": "Specialized Team",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, We  have country level Specialized Team / Control Tower that oversees operation"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536889388,
+  "fallbackIntent": false,
+  "events": []
+}

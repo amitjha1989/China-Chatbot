@@ -1,0 +1,48 @@
+[
+  {
+    "id": "164a4cfa-3f04-4e0a-bbcf-843a0ed7518a",
+    "data": [
+      {
+        "text": "Truck business sales (RMB) in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721092
+  },
+  {
+    "id": "aa8eaf48-ffa6-420e-8ab9-4a0c112a119b",
+    "data": [
+      {
+        "text": "2016",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Trucking Business Annual Sales (in CNY)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721092
+  }
+]

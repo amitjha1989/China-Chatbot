@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f89d2fd3-41b5-422d-aae7-a15356dd6b7d",
+    "data": [
+      {
+        "text": "Control Tower that oversees operation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889388
+  },
+  {
+    "id": "065ae79f-216f-4b1f-97e5-05e06c872eec",
+    "data": [
+      {
+        "text": "country level Specialized Team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889388
+  },
+  {
+    "id": "239ba34f-15ce-4c55-8b38-28e2fc362495",
+    "data": [
+      {
+        "text": "Do you have a country level Specialized Team / Control Tower that oversees operation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536889388
+  }
+]

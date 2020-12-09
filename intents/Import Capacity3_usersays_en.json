@@ -1,0 +1,26 @@
+[
+  {
+    "id": "edd7ce4d-9e2e-4e67-b189-0959fc20dd73",
+    "data": [
+      {
+        "text": "Company General import business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888406
+  },
+  {
+    "id": "ef66058b-1d59-41f4-91cd-65ff7c27a61b",
+    "data": [
+      {
+        "text": "Countires where the company have the general import business, i.e. import port, annual volume in different import port, especially in SHA \u0026 Ningbo.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888406
+  }
+]

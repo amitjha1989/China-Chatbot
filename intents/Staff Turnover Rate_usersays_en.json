@@ -1,0 +1,58 @@
+[
+  {
+    "id": "6e719705-c0cc-4812-8957-926749567bf0",
+    "data": [
+      {
+        "text": "2016",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Employee Turnover Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721195
+  },
+  {
+    "id": "aa315564-8b45-41a6-aaaf-f94db5b89b91",
+    "data": [
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Staff Turnover Rate ",
+        "userDefined": false
+      },
+      {
+        "text": "in 2016",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " (in %)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721195
+  }
+]

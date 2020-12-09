@@ -1,0 +1,28 @@
+{
+  "id": "aa5bc4e1-a803-4e76-b736-a5f5850a8e95",
+  "name": "Registered Capital",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "RMB 30 million (US$ 4.5 million)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536720780,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "495fc8ec-125f-4925-afd3-0f3ea0b5e8f0",
+    "data": [
+      {
+        "text": "2016",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " sales in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720870
+  },
+  {
+    "id": "0b679937-0f9b-4387-99a8-2f49bb682915",
+    "data": [
+      {
+        "text": "2016",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Annual Sales (in CNY)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536720870
+  }
+]

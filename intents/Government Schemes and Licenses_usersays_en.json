@@ -1,0 +1,38 @@
+[
+  {
+    "id": "70f4e077-6714-49e5-bfb3-26d933032879",
+    "data": [
+      {
+        "text": "Issued relevant licenses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721278
+  },
+  {
+    "id": "d8f00e54-7ba0-4f1c-935f-ca76b6dcbf91",
+    "data": [
+      {
+        "text": "Government issued relevant licenses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721278
+  },
+  {
+    "id": "651887f7-1c80-40c5-ae46-f31f66b77a26",
+    "data": [
+      {
+        "text": "Government Schemes and Licenses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536721278
+  }
+]

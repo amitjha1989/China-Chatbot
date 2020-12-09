@@ -1,0 +1,28 @@
+{
+  "id": "9885bb81-9f85-4ccf-a023-ccd41a23eca8",
+  "name": "Bonded Warehouse3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We use PTQ approach to control the quality and we have ISO certificate. Pls refer to the Quality control PDF \u003ca href\u003d\"https://isharenew.dhl.com/sites/sdhome/sd3/wms/docs/Team%20Folder%20-%20SC%20Solutions%20AP/VA%20Chatbot/Quality%20control.pdf\" target\u003d\"_blank\"\u003eLink\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888647,
+  "fallbackIntent": false,
+  "events": []
+}

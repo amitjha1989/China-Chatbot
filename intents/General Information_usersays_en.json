@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2cf9208e-5f2c-40b4-be66-517c60de5b01",
+    "data": [
+      {
+        "text": "Document for company information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536838950
+  },
+  {
+    "id": "b717e7e4-1d2c-48d3-a0a0-33ede6e619af",
+    "data": [
+      {
+        "text": "Company background, the owner structure, business scope and the business licenses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536838950
+  }
+]

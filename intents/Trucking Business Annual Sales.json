@@ -1,0 +1,45 @@
+{
+  "id": "b5a207f6-13f9-43dd-9c0f-856fbd056bf9",
+  "name": "Trucking Business Annual Sales",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e99972f3-a528-43ad-ab10-ae4cab9eed51",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "f46f304e-1311-428c-882a-68a3a19f2591",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "2016 China\u0027s truck business sales (RMB) \"about 1.2 billion yuan"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536721111,
+  "fallbackIntent": false,
+  "events": []
+}

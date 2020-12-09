@@ -1,0 +1,43 @@
+{
+  "id": "e5ce2459-f8ec-407f-8d11-36ddabfcb899",
+  "name": "Annual Sales",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f08bda0d-0fe9-4e05-b710-c2779064988f",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "08178e3b-3138-4586-8ecb-43624643799f",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "2016 sales in China (RMB) approximately RMB 2.4 billion"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536720870,
+  "fallbackIntent": false,
+  "events": []
+}

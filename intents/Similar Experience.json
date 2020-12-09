@@ -1,0 +1,28 @@
+{
+  "id": "ec01c1c1-1d08-4372-a027-8ea3f7513b10",
+  "name": "Similar Experience",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hershey( part imported from USA), Mars, Lindt( imported from Swiss), Starbucks, Abbott"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888983,
+  "fallbackIntent": false,
+  "events": []
+}

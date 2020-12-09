@@ -1,0 +1,28 @@
+{
+  "id": "566bb473-fc1e-4f8d-8998-113cb321e4dd",
+  "name": "General Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\u003ca href\u003d\"https://isharenew.dhl.com/sites/sdhome/sd3/wms/docs/Team%20Folder%20-%20SC%20Solutions%20AP/VA%20Chatbot/DSC%20Introduction.pdf\" target\u003d\"_blank\"\u003eVisit \u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536838950,
+  "fallbackIntent": false,
+  "events": []
+}

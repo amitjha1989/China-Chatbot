@@ -1,0 +1,54 @@
+[
+  {
+    "id": "dbae34fd-8360-4f44-990a-7635830817d5",
+    "data": [
+      {
+        "text": "annual net income report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536839086
+  },
+  {
+    "id": "7d92166b-da16-4acb-ae9f-d68b27ec87fb",
+    "data": [
+      {
+        "text": "Last 3 year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " financial figures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536839086
+  },
+  {
+    "id": "d5f662d7-361e-47a2-a943-962957ce0ef8",
+    "data": [
+      {
+        "text": "Financial figures for ",
+        "userDefined": false
+      },
+      {
+        "text": "the last 3 years",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": ", Providing information on the financial stability of the contractor (e.g. annual net income, equity ratio, free cash flow over the last three years)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536839086
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "f710d8a5-d01d-46d7-a730-1d7025c058dd",
+  "name": "Import Capacity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "DHL is capable of customs clearance in various port including Shanghai WGQ, Yangshan port \u0026 PVG port. Beijing Guangzhou \u0026Shenzhen port. Currently we are doing inbound for Pernod Ricard, Hershey \u0026 Lindt etc, Total in/out shipment is between 50k-10k."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888120,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "731bec88-1fdb-49be-aaad-74b92a045e10",
+  "name": "Government Schemes and Licenses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Road transport permit"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536721287,
+  "fallbackIntent": false,
+  "events": []
+}

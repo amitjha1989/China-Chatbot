@@ -1,0 +1,72 @@
+[
+  {
+    "id": "214f257c-7cfd-4762-9d3f-0a654e01d042",
+    "data": [
+      {
+        "text": "Please list the branch office and the corresponding address.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224438
+  },
+  {
+    "id": "d8d8c38d-864d-4420-ad8c-17ad8f53d289",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " branch office location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224438
+  },
+  {
+    "id": "2e7f717f-1e05-4c52-bee2-0ae30badb3ad",
+    "data": [
+      {
+        "text": "Branch Office Location in China (City)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224438
+  },
+  {
+    "id": "6aae6e23-fdc0-4966-8a85-21915abc8d7a",
+    "data": [
+      {
+        "text": "Branch Office location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224438
+  },
+  {
+    "id": "643e77a3-680b-4574-a74e-3da109424b26",
+    "data": [
+      {
+        "text": "Branch Office",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536224438
+  }
+]

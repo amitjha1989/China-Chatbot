@@ -1,0 +1,28 @@
+{
+  "id": "87c54d97-1685-42f0-b8b8-bc3b4f3766c2",
+  "name": "Year of Establishment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "May 15, 1996"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536720711,
+  "fallbackIntent": false,
+  "events": []
+}

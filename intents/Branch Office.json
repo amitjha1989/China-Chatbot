@@ -1,0 +1,43 @@
+{
+  "id": "5b69ade0-36ac-46b5-ac4d-a2521235d313",
+  "name": "Branch Office",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "575586cb-1207-4820-ac69-6e4b61bb6d8c",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Complete list is here: \u003ca href\u003d\"https://isharenew.dhl.com/sites/sdhome/sd3/wms/_layouts/15/WopiFrame2.aspx?sourcedoc\u003d/sites/sdhome/sd3/wms/docs/Team%20Folder%20-%20SC%20Solutions%20AP/VA%20Chatbot/Copy%2Bof%2BChina%2BGround%2BQuestionnaire%2BTemplate.xlsx\u0026action\u003ddefault\" target\u003d\"_blank\"\u003eClick\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "skype": false,
+        "slack": false,
+        "telephony": false,
+        "telegram": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536890151,
+  "fallbackIntent": false,
+  "events": []
+}

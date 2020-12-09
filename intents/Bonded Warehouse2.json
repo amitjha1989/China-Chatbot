@@ -1,0 +1,45 @@
+{
+  "id": "be7ba0a2-c285-459c-a692-91b4abf13105",
+  "name": "Bonded Warehouse2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "616a1297-d31f-4548-87ff-f269e3111021",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "3d2d93f1-84f0-4014-ba76-b4c52850b831",
+          "required": false,
+          "dataType": "@sys.temperature",
+          "name": "temperature",
+          "value": "$temperature",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "we have similar operation such Abbott, Hershey (13-20 C) Lindt (4-18C) Mars (10-20C) Starbucks."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888496,
+  "fallbackIntent": false,
+  "events": []
+}

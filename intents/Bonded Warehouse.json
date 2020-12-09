@@ -1,0 +1,28 @@
+{
+  "id": "ff86517e-34e6-4f62-a20a-f62d511cdde3",
+  "name": "Bonded Warehouse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "100% self operated warehouse"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536888454,
+  "fallbackIntent": false,
+  "events": []
+}

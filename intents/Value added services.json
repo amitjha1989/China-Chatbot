@@ -1,0 +1,28 @@
+{
+  "id": "f2a2a73f-29fe-457a-9cdd-c613400f188f",
+  "name": "Value added services",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "EPOD, TMS, LLP"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536889096,
+  "fallbackIntent": false,
+  "events": []
+}

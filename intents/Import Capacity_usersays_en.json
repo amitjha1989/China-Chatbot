@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a1cac348-e4b0-49d8-887c-c7c89aadc588",
+    "data": [
+      {
+        "text": "annual volume for food and bonded transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888120
+  },
+  {
+    "id": "a347dc9d-8141-4cee-bcbf-6fa619699c3c",
+    "data": [
+      {
+        "text": "Food and Bonded Transfer customs declaration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888120
+  },
+  {
+    "id": "19f93db8-5f1e-41b8-8358-d97510d29503",
+    "data": [
+      {
+        "text": "Capacity of customs declaration in general trade model for food and bonded transfer operation between different bonded areas, i.e. annual volume.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536888120
+  }
+]

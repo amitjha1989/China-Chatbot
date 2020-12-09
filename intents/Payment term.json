@@ -1,0 +1,28 @@
+{
+  "id": "c60a45a6-d7b2-4154-b392-3ba3752dbc79",
+  "name": "Payment term",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "90 days"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536889059,
+  "fallbackIntent": false,
+  "events": []
+}
